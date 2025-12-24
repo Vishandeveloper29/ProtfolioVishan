@@ -8,7 +8,7 @@ menutoggle.addEventListener("click", () => {
 });
 
 closenav.addEventListener("click", () => {
-  navbar.classList.remove("show");
+  navbar.classLimove("show");
 });
 
 navbuttons.forEach((btn) => {
